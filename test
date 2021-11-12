@@ -15,6 +15,7 @@ local wl = {
 1539059425,--nvn
 101969575,--giveaway winner
 861974819,--nitro buyer
+729502581,--spam
 
 }
 return wl
